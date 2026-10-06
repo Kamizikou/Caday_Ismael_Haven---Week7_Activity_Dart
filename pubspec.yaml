@@ -1,0 +1,9 @@
+name: dart_exercises
+description: A simple Dart console application for Week 7 fundamentals.
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  # No external dependencies needed for this basic exercise
