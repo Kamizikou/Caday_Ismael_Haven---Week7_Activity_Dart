@@ -1,0 +1,10 @@
+=== STUDENT GRADE REPORT ===
+Student Name: Juan Cruz
+Subjects Enrolled: 4
+Total Raw Score: 368.5
+Average Grade: 92.125
+----------------------------
+Rounded Average Grade (totalRawScore ~/ subjectCount): 92
+Score Unit Remainder (totalRawScore % subjectCount): 0
+Is Passing Grade (>= 75.0)? true
+Qualifies for Honor Roll? true
