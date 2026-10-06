@@ -2,7 +2,7 @@
 // Scenario: Student Grade Computation & Honor Roll Check
 
 void main() {
-  String studentName = 'Juan Cruz';
+  String studentName = 'Ismael Caday';
   int subjectCount = 4;
   double totalRawScore = 368.5;
   bool isEnrolledFullTime = true;
